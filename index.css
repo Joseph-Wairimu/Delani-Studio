@@ -28,6 +28,16 @@ padding-top: 3rem;
 .section4{
     text-align: center;
     padding-top: 1%;
-
-
+    height: 45rem;
+    
 }
+/* .icon{
+    justify-content: space-evenly;
+  } */
+  #service-icon{
+      display: flex;
+      justify-content: space-between;
+      padding: 4rem 11rem;
+      flex-wrap: wrap;
+      text-align: center;
+  }
