@@ -51,6 +51,26 @@ padding-top: 3rem;
     background-image: url(assets/backgrounds/c_image.jpg);
     height: 45rem;
     background-size:cover;
-    padding-top: 17%;
+    padding-top: 3%;
+    text-align: center;
+    color: white;
 
+  }
+  .input{
+      margin: 60px;
+  }
+  #emaill{
+      background-color: transparent;
+      
+      border: 1px solid white;
+      width: 25%;
+      margin: 0 1%;
+  }
+  ::placeholder{
+      color: white;
+  }
+  #subjectt{
+      background-color: transparent;
+      border: 1px solid white;
+      width: 47%;
   }
