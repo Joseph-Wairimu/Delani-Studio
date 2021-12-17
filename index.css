@@ -74,3 +74,8 @@ padding-top: 3rem;
       border: 1px solid white;
       width: 47%;
   }
+  .social{
+      height: auto;
+      text-align: center;
+      padding-top: 3%;
+  }
