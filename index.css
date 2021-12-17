@@ -28,7 +28,7 @@ padding-top: 3rem;
 .section4{
     text-align: center;
     padding-top: 1%;
-    height: 45rem;
+    height: 67rem;
     
 }
 /* .icon{
@@ -46,4 +46,11 @@ padding-top: 3rem;
       flex-wrap: wrap;
       justify-content: space-around;
       padding: 1rem 14rem;
+  }
+  .section5{
+    background-image: url(assets/backgrounds/c_image.jpg);
+    height: 45rem;
+    background-size:cover;
+    padding-top: 17%;
+
   }
