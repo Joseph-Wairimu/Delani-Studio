@@ -36,8 +36,14 @@ padding-top: 3rem;
   } */
   #service-icon{
       display: flex;
-      justify-content: space-between;
-      padding: 4rem 11rem;
+      justify-content: space-around;
+      padding: 4rem 0rem;
       flex-wrap: wrap;
-      text-align: center;
+      /* text-align: center; */
+  }
+  .portfolio{
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      padding: 1rem 14rem;
   }
