@@ -90,7 +90,7 @@ $(document).ready(function() {
       });
 
     // form
-    
+
       $("form").on("submit", function(event) {
         event.preventDefault();
         var message = $("#subjectt").val()
