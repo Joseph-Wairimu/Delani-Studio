@@ -26,51 +26,67 @@ $(document).ready(function() {
   $(document).ready(function(){
     $(".delani").hover(function(){
       $(".hover").css("opacity", "0.5");
+      $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
       $(".hover").css("opacity", "1");
+      $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
     });
 
-    $(".ho").hover(function(){
+    $(".de").hover(function(){
         $(".ho").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".ho").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-      $(".hov").hover(function(){
+      $(".del").hover(function(){
         $(".hov").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hov").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-      $(".hove").hover(function(){
+      $(".dela").hover(function(){
         $(".hove").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hove").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
 
-      $(".hoo").hover(function(){
+      $(".dd").hover(function(){
         $(".hoo").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hoo").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-      $(".hovv").hover(function(){
+      $(".dde").hover(function(){
         $(".hovv").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hovv").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-      $(".hovee").hover(function(){
+      $(".ddee").hover(function(){
         $(".hovee").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hovee").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-      $(".hoverr").hover(function(){
+      $(".ddeee").hover(function(){
         $(".hoverr").css("opacity", "0.5");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       }, function(){
         $(".hoverr").css("opacity", "1");
+        $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
   });

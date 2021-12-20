@@ -100,7 +100,8 @@ padding-top: 3rem;
 .delani{
     text-align: center;
     position: relative;
-    color: aliceblue;
+    color:black;
+    font-weight: bold;
 }
 .delani>p{
     display: none;
@@ -113,7 +114,8 @@ padding-top: 3rem;
 .de{
     text-align: center;
     position: relative;
-    color: aliceblue;
+    color:black;
+    font-weight: bold;
 }
 .de>p{
     display: none;
@@ -125,7 +127,8 @@ padding-top: 3rem;
 .del{
     text-align: center;
     position: relative;
-    color: aliceblue;
+    color:black;
+    font-weight: bold;
 }
 .del>p{
     display: none;
@@ -137,7 +140,8 @@ padding-top: 3rem;
 .dela{
     text-align: center;
     position: relative;
-    color: aliceblue;
+    color:black;
+    font-weight: bold;
 }
 .dela>p{
     display: none;
@@ -149,7 +153,8 @@ padding-top: 3rem;
 .dd{
     text-align: center;
     position: relative;
-    color: aliceblue;
+    color:black;
+    font-weight: bold;
 }
 .dd>p{
     display: none;
@@ -160,7 +165,8 @@ padding-top: 3rem;
  .dde{
         text-align: center;
         position: relative;
-        color: aliceblue;
+        color:black;
+        font-weight: bold;
     }
 .dde>p{
     display: none;
@@ -171,7 +177,8 @@ padding-top: 3rem;
     .ddee{
         text-align: center;
         position: relative;
-        color: aliceblue;
+        color:black;
+        font-weight: bold;
     }  
 .ddee>p{
     display: none; 
@@ -183,7 +190,8 @@ padding-top: 3rem;
     .ddeee{
         text-align: center;
         position: relative;
-        color: aliceblue;
+        color:black;
+        font-weight: bold;
     }
 .ddeee>p{
     display: none;
