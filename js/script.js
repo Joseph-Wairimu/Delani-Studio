@@ -89,6 +89,16 @@ $(document).ready(function() {
         $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
+
+      $("form").on("submit", function(event) {
+        event.preventDefault();
+        var message = $("#subjectt").val()
+        var name = $(".namee").val()
+        var email = $(".emailll").val()
+        alert("Hello "+name+",\nWe have received your message from "+email+",\nThank you for contacting us.")
+     });
+    
+
   });
   
 
