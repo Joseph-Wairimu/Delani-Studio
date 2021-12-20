@@ -98,5 +98,96 @@ padding-top: 3rem;
     
 }
 .delani{
-    display: none;
+    text-align: center;
+    position: relative;
+    color: aliceblue;
 }
+.delani>p{
+    display: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    
+}
+.de{
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+}
+.de>p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.del{
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+}
+.del>p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dela{
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+}
+.dela>p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.dd{
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+}
+.dd>p{
+    display: none;
+     position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+ .dde{
+        text-align: center;
+        position: relative;
+        color: aliceblue;
+    }
+.dde>p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+    .ddee{
+        text-align: center;
+        position: relative;
+        color: aliceblue;
+    }  
+.ddee>p{
+    display: none; 
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+    .ddeee{
+        text-align: center;
+        position: relative;
+        color: aliceblue;
+    }
+.ddeee>p{
+    display: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);}

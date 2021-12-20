@@ -24,64 +24,56 @@ $(document).ready(function() {
 // Hover
 
   $(document).ready(function(){
-    $(".hover").hover(function(){
+    $(".delani").hover(function(){
       $(".hover").css("opacity", "0.5");
       }, function(){
-      $(".delani").css("display", "flex");
+      $(".hover").css("opacity", "1");
     });
 
     $(".ho").hover(function(){
         $(".ho").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".ho").css("opacity", "1");
       });
 
       $(".hov").hover(function(){
         $(".hov").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hov").css("opacity", "1");
       });
 
       $(".hove").hover(function(){
         $(".hove").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hove").css("opacity", "1");
       });
 
 
       $(".hoo").hover(function(){
         $(".hoo").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hoo").css("opacity", "1");
       });
 
       $(".hovv").hover(function(){
         $(".hovv").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hovv").css("opacity", "1");
       });
 
       $(".hovee").hover(function(){
         $(".hovee").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hovee").css("opacity", "1");
       });
 
       $(".hoverr").hover(function(){
         $(".hoverr").css("opacity", "0.5");
-        }, function(){
-        $(".delani").css("display", "flex");
+      }, function(){
+        $(".hoverr").css("opacity", "1");
       });
-
-
-
-
-
-
-
-
-
 
   });
   
+
 
