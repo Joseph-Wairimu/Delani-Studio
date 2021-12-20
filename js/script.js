@@ -89,7 +89,8 @@ $(document).ready(function() {
         $(".name" ,this).slideToggle(100, "linear").display(100, "linear");
       });
 
-
+    // form
+    
       $("form").on("submit", function(event) {
         event.preventDefault();
         var message = $("#subjectt").val()
