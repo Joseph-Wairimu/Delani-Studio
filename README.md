@@ -11,7 +11,8 @@ This is a personal project aimed at designing a website  for a fictional studio.
 
 #### Setup instructions 
 
-The site is easy to run with any browser but I prefer chrome.
+The site is easy to run with any browser but I prefer chrome. 
+I used 67% screen zoom level used on design.
 
 #### Bdd
 BDD(Behavior Driven Development)
